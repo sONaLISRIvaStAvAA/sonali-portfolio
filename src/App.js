@@ -7,14 +7,14 @@ const projects = [
     image: '/coalshield.png',
     github: 'https://github.com/sONaLISRIvaStAvAA/COALSHIELD',
     desc: 'Smart safety jacket designed for coal miners with real-time environmental and physiological monitoring for hazard detection and emergency response.',
-    tech: ['Raspberry Pi', 'IoT', 'Sensors', 'PuTTY'],
+    tech: ['Raspberry Pi', 'Python', 'HTML','CSS','JavaScript', 'PuTTY'],
   },
   {
     title: 'SENTRY-X',
     image: '/sentryx.png',
     github: 'https://github.com/sONaLISRIvaStAvAA/SENTRY-X',
     desc: 'Embedded face verification device designed for secure access control and real-time authentication.',
-    tech: ['Arduino', 'Embedded C++', 'Security'],
+    tech: ['Arduino', 'Arduino IDE','Embedded C++', 'Security'],
   },
   {
     title: 'AirBling',
